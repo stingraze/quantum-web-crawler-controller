@@ -1,5 +1,5 @@
 # quantum-web-crawler-controller
-An way to control a web crawler using quanum algorithm.
+An way to control a web crawler using quantum algorithm.
 
 ©︎2022 Tsubasa Kato - [Inspire Search Corporation](https://www.inspiresearch.io/en "Inspire Search Corporation")
 
