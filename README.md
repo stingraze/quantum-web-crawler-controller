@@ -8,3 +8,5 @@ A multithread web crawler will be controlled by the result of measuring how many
 
 This code uses Qiskit.
 
+Tested to work on Python 3.10 under M1 Mac - MacOS Ventura 13
+
