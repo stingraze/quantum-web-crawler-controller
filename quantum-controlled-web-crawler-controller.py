@@ -12,7 +12,7 @@ from sarge import run, Capture
 
 np.seterr(divide='ignore')
 counter = 0
-
+#Most of code from: https://stackoverflow.com/questions/67972186/live-output-from-python-subprocess-that-calls-python-script
 def run_command(command):
    os.environ['PYTHONUNBUFFERED'] = '1'
    process = Popen(command, shell=False, stdout=PIPE, env=os.environ) # Shell doesn't quite matter for this issue
